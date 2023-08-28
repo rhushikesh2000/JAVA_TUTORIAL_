@@ -46,7 +46,7 @@ There are three types of comments in Java.
 ---
 
 ~~~java
-**//** System.out.println("This is an comment.");
+//** System.out.println("This is an comment.");
 ~~~
 **Multiline Comment**
 
