@@ -1,104 +1,42 @@
-# String 
+## StringBuffer class in Java
 
+- StringBuffer is a class in Java that represents a mutable sequence of characters. It provides an alternative to the immutable String class, allowing you to modify the contents of a string without creating a new object every time.
 
+- StringBuffer objects are mutable, meaning that you can change the contents of the buffer without creating a new object.
+- The initial capacity of a StringBuffer can be specified when it is created, or it can be set later with the ensureCapacity() method.
 
-
-**What are Strings in Java?**
-
----
-
-Strings are the type of objects that can store the character of values. A string acts the same as an array of characters in Java.
-
-Example:  
+StringBufferExample.java
 ~~~java
-
-String name = "Geeks";
+    class StringBufferExample{  
+    public static void main(String args[]){  
+    StringBuffer sb=new StringBuffer("Hello ");  
+    
+    System.out.println(sb);//prints Hello 
+    }  
+    }  
 ~~~
-![Aspose Words 80554fad-41a6-47b8-8ff7-40351f20e020 001](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/d9cf0624-f97b-43bc-a25a-dec5c252e19a)
-
-
-
-
-
-
-
-**Ways of Creating a String**
-
----
-
-**There are two ways to create a string in Java:**
-
-- String Literal
-- Using new Keyword
-
-
-**1. String literal**
-
----
-
-To make Java more memory efficient (because no new objects are created if it exists already in the string constant pool). 
-
-
-Example:
-~~~java
-String demoString = “WelCome to Guvi”;
+Output:
 ~~~
-
-**2. Using new keyword**
-
----
-~~~java
-String s = new String(“Welcome”);
+Hello Java
 ~~~
-In such a case, JVM will create a new string object in normal (non-pool) heap memory and the literal “Welcome” will be placed in the string constant pool. The variable s will refer to the object in the heap (non-pool)
+**StringBuffer Constructors**
 
 
+![stringbuffer](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/4014d0b7-5424-41b9-bb66-b8eddebef19d)
 
-**Java.lang.String class in Java**
-
----
-
-Strings in java are immutable. Now lets discuss some of the methods provided by String class. Methods:
-
-
-
-
-
-
-|**Methods**          |**Description**|
-| :- | :- |
-|contains()|checks whether the string contains a substring|
-|substring()|returns the substring of the string|
-|join()|join the given strings using the delimiter|
-|replace()|replaces the specified old character with the specified new character|
-|replaceAll()|replaces all substrings matching the regex pattern|
-|replaceFirst()|replace the first matching substring|
-|charAt()|returns the character present in the specified location|
-|getBytes()|converts the string to an array of bytes|
-|indexOf()|returns the position of the specified character in the string|
-|compareTo()|compares two strings in the dictionary order|
-|compareToIgnoreCase()|compares two strings ignoring case differences|
-|trim()|removes any leading and trailing whitespaces|
-|format()|returns a formatted string|
-|split()|breaks the string into an array of strings|
-|toLowerCase()|converts the string to lowercase|
-|toUpperCase()|converts the string to uppercase|
-|valueOf()|returns the string representation of the specified argument|
-|toCharArray()|converts the string to a char array|
-|matches()|checks whether the string matches the given regex|
-|startsWith()|checks if the string begins with the given string|
-|endsWith()|checks if the string ends with the given string|
-|isEmpty()|checks whether a string is empty of not|
-|intern() |returns the canonical representation of the string|
-|contentEquals()|checks whether the string is equal to charSequence|
-|hashCode()|returns a hash code for the string|
-|subSequence()|returns a subsequence from the string|
-
-**Why Java Strings are immutable in nature?**
+**Here are some important features and methods of the StringBuffer class:**
 
 ---
 
-The String pool cannot be possible if String is not immutable in Java. A lot of heap space is saved by JRE. The same string variable can be referred to by more than one string variable in the pool. String interning can also not be possible if the String would not be immutable.
+- The append() method is used to add characters, strings, or other objects to the end of the buffer.
+- The insert() method is used to insert characters, strings, or other objects at a specified position in the buffer.
+- The delete() method is used to remove characters from the buffer.
+- The reverse() method is used to reverse the order of the characters in the buffer.
 
-If we don’t make the String immutable, it will pose a serious security threat to the application. For example, database usernames, and passwords are passed as strings to receive database connections. The socket programming host and port descriptions are also passed as strings. The String is immutable, so its value cannot be changed. If the String doesn’t remain immutable, any hacker can cause a security issue in the application by changing the reference value.
+**There are several advantages of using StringBuffer over regular String objects in Java:**
 
+---
+
+- Mutable: StringBuffer objects are mutable, which means that you can modify the contents of the object after it has been created. In contrast, String objects are immutable, which means that you cannot change the contents of a String once it has been created.
+  
+- Efficient: Because StringBuffer objects are mutable, they are more efficient than creating new String objects each time you need to modify a string. This is especially true if you need to modify a string multiple times, as each modification to a String object creates a new object and discards the old one.
