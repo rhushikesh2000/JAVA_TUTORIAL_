@@ -28,15 +28,15 @@ Hello Java
 
 ---
 
-- The append() method is used to add characters, strings, or other objects to the end of the buffer.
-- The insert() method is used to insert characters, strings, or other objects at a specified position in the buffer.
-- The delete() method is used to remove characters from the buffer.
-- The reverse() method is used to reverse the order of the characters in the buffer.
+- **The append():** method is used to add characters, strings, or other objects to the end of the buffer.
+- **The insert():** method is used to insert characters, strings, or other objects at a specified position in the buffer.
+- **The delete():**method is used to remove characters from the buffer.
+- **The reverse():**method is used to reverse the order of the characters in the buffer.
 
 **There are several advantages of using StringBuffer over regular String objects in Java:**
 
 ---
 
-- Mutable: StringBuffer objects are mutable, which means that you can modify the contents of the object after it has been created. In contrast, String objects are immutable, which means that you cannot change the contents of a String once it has been created.
+- **Mutable:** StringBuffer objects are mutable, which means that you can modify the contents of the object after it has been created. In contrast, String objects are immutable, which means that you cannot change the contents of a String once it has been created.
   
-- Efficient: Because StringBuffer objects are mutable, they are more efficient than creating new String objects each time you need to modify a string. This is especially true if you need to modify a string multiple times, as each modification to a String object creates a new object and discards the old one.
+- **Efficient:** Because StringBuffer objects are mutable, they are more efficient than creating new String objects each time you need to modify a string. This is especially true if you need to modify a string multiple times, as each modification to a String object creates a new object and discards the old one.
