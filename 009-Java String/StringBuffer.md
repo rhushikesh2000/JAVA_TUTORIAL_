@@ -1,4 +1,4 @@
-## StringBuffer class in Java
+## StringBuffer
 
 - StringBuffer is a class in Java that represents a mutable sequence of characters. It provides an alternative to the immutable String class, allowing you to modify the contents of a string without creating a new object every time.
 
