@@ -43,9 +43,9 @@ Each time you create a string literal, the JVM checks the "string constant pool"
 Example:
 
 ~~~java
-String s1 = “WelCome”;
+String s1 = “ WelCome ”;
 
-String s2 = “WelCome”;
+String s2 = “ WelCome ”;
 ~~~
 
 ![java-string](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/d5ceadd7-65b0-4d10-b6e7-6c850450d442)
@@ -61,11 +61,21 @@ In such a case, JVM will create a new string object in normal (non-pool) heap me
 
 
 
+
+
 **Java.lang.String class in Java**
 
 ---
 
-Strings in java are immutable. Now lets discuss some of the methods provided by String class. Methods:
+![string-implements](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/de4635b0-90b1-43fe-adb1-4fe2abef4d19)
+
+
+
+
+**Strings in java are immutable. Now lets discuss some of the methods provided by String class. Methods:**
+
+
+---
 
 
 
