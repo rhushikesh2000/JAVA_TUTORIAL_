@@ -60,7 +60,7 @@ Java ternary operator is the only conditional operator that takes three operands
 
 **Syntax:**
 ~~~
- **variable = Expression1 ?  Expression2 : Expression3**
+ variable = Expression1 ?  Expression2 : Expression3
 ~~~
 ![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 014](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/59929c5b-ca9a-42bb-a45b-6809d8e696d6)
 
