@@ -12,9 +12,10 @@ Strings are the type of objects that can store the character of values. A string
 Example:  
 ~~~java
 
-String name = "Geeks";
+String s1 = "Welcome";
 ~~~
-![Aspose Words 80554fad-41a6-47b8-8ff7-40351f20e020 001](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/d9cf0624-f97b-43bc-a25a-dec5c252e19a)
+
+
 
 
 
@@ -37,12 +38,18 @@ String name = "Geeks";
 ---
 
 To make Java more memory efficient (because no new objects are created if it exists already in the string constant pool). 
-
+Each time you create a string literal, the JVM checks the "string constant pool" first. If the string already exists in the pool, a reference to the pooled instance is returned
 
 Example:
+
 ~~~java
-String demoString = “WelCome to Guvi”;
+String s1 = “WelCome”;
+
+String s2 = “WelCome”;
 ~~~
+
+![java-string](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/d5ceadd7-65b0-4d10-b6e7-6c850450d442)
+
 
 **2. Using new keyword**
 
