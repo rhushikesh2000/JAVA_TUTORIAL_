@@ -24,6 +24,7 @@ From the image, it can be easily perceived that while declaring a variable, we n
 
 - **data\_name**: Name was given to the variable.
 
+
 **How to Initialize Variables in Java?**
 
 ---
@@ -31,10 +32,9 @@ From the image, it can be easily perceived that while declaring a variable, we n
 It can be perceived with the help of 3 components that are as follows:
 
 ![Variables-Syntax-in-Java](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/61408b89-dcb4-4259-820d-6a38d260331b)
+
 **datatype:** Type of data that can be stored in this variable.
-~~~
-variable_name: Name given to the variable.
-~~~
+
 **value:** It is the initial value stored in the variable.
 
 
@@ -98,7 +98,7 @@ Instance variables are non-static variables and are declared in a class outside 
 
 // Java Program to demonstrate
 
-class guvi {
+class Guvi {
 
 	// Declared instance variable
 
