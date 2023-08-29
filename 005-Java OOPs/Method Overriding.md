@@ -25,58 +25,92 @@ In other words, If a subclass provides the specific implementation of the method
 ![](https://static.javatpoint.com/images/java-rules-for-method-overriding.png)
 
 
-Java Program to demonstrate why we need method overriding  
-Here, we are calling the method of parent class with child  
-class object. 
+In this example, we have defined the run method in the subclass as defined in the parent class but it has some specific implementation. The name and parameter of the method are the same, and there is IS-A relationship between the classes, so there is method overriding. 
+
 ```java
+
 //Creating a parent class  
 
  class Vehicle{  
    //defining a method  
-   void run(){System.out.println("Vehicle is running");}  
+   void run(){
+
+System.out.println("Vehicle is running");
+}  
  }  
  //Creating a child class  
- class Bike2 extends Vehicle{  
+ class Bike2 extends Vehicle{
+ 
    //defining the same method as in the parent class  
-   void run(){System.out.println("Bike is running safely");}  
+   void run(){
+
+System.out.println("Bike is running safely");
+}  
    
-   public static void main(String args[]){  
+   public static void main(String args[]){
+
    Bike2 obj = new Bike2();//creating object  
    obj.run();//calling method  
    }  
  }  
 ```
+Output:
+~~~
+Bike is running safely
+~~~
+
+**A real example of Java Method Overriding**
+
+Consider a scenario where Bank is a class that provides functionality to get the rate of interest. However, the rate of interest varies according to banks. For example, SBI, ICICI and AXIS banks could provide 8%, 7%, and 9% rate of interest.
 
 
 Example
 ```java
 class Bank{  
-int getRateOfInterest(){return 0;}  
+int getRateOfInterest(){
+return 0;
+}  
 }  
 //Creating child classes.  
-class SBI extends Bank{  
-int getRateOfInterest(){return 8;}  
+class SBI extends Bank{
+
+int getRateOfInterest(){
+return 8;
+}  
 }  
   
 class ICICI extends Bank{  
-int getRateOfInterest(){return 7;}  
+int getRateOfInterest()
+{
+return 7;
+}  
 }  
 class AXIS extends Bank{  
-int getRateOfInterest(){return 9;}  
+int getRateOfInterest(){
+return 9;
 }  
+}
+
 //Test class to create objects and call the methods  
-class Test2{  
+class Test2{
+
 public static void main(String args[]){  
 SBI s=new SBI();  
 ICICI i=new ICICI();  
-AXIS a=new AXIS();  
+AXIS a=new AXIS();
+
 System.out.println("SBI Rate of Interest: "+s.getRateOfInterest());  
 System.out.println("ICICI Rate of Interest: "+i.getRateOfInterest());  
 System.out.println("AXIS Rate of Interest: "+a.getRateOfInterest());  
 }  
 } 
 ```
-
+Output:
+~~~
+8
+7
+9
+~~~
 
 
 **Can we override static method?**
