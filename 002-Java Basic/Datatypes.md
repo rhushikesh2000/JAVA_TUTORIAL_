@@ -139,7 +139,7 @@ Strings are defined as an array of characters. The difference between a characte
 
 **Syntax:** Declaring a string
 ~~~
-<String\_Type> <string\_variable> = “<sequence\_of\_string>”;
+<String_Type> <string_variable> = “<sequence_of_string>”;
 ~~~
 **Example:** 
 ~~~java
