@@ -25,7 +25,9 @@ In other words, If a subclass provides the specific implementation of the method
 ![](https://static.javatpoint.com/images/java-rules-for-method-overriding.png)
 
 
-In this example, we have defined the run method in the subclass as defined in the parent class but it has some specific implementation. The name and parameter of the method are the same, and there is IS-A relationship between the classes, so there is method overriding. 
+
+
+**Example:**
 
 ```java
 
@@ -59,7 +61,12 @@ Output:
 Bike is running safely
 ~~~
 
+In this example, we have defined the run method in the subclass as defined in the parent class but it has some specific implementation. The name and parameter of the method are the same, and there is IS-A relationship between the classes, so there is method overriding. 
+
+
 **A real example of Java Method Overriding**
+
+---
 
 Consider a scenario where Bank is a class that provides functionality to get the rate of interest. However, the rate of interest varies according to banks. For example, SBI, ICICI and AXIS banks could provide 8%, 7%, and 9% rate of interest.
 
