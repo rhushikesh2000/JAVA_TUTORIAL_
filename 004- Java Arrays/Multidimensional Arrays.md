@@ -30,9 +30,9 @@ Size of multidimensional arrays: The total number of elements that can be stored
 **For example:** 
 ~~~java
 
-array int[][] x = new int[10][20] can store a total of (10\*20) = 200 elements. 
+array int[][] x = new int[10][20] can store a total of (10*20) = 200 elements. 
 
-array int[][][] x = new int[5][10][20] can store a total of (5\*10\*20) = 1000 elements.
+array int[][][] x = new int[5][10][20] can store a total of (5*10*20) = 1000 elements.
 ~~~
 
 - Application of Multi-Dimensional Array
