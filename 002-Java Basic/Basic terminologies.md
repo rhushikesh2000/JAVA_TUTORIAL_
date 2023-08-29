@@ -39,14 +39,16 @@ welcome to GUVI
 
 ---
 
-There are three types of comments in Java. 
+There are TWO types of comments in Java. 
 
 **Single line Comment**
 
 ---
 
-~~~java
-//** System.out.println("This is an comment.");
+~~~
+
+//System.out.println("This is an comment.");
+
 ~~~
 **Multiline Comment**
 
@@ -66,7 +68,8 @@ There are three types of comments in Java.
 ---
 All Java components require names. Names used for classes, variables, and methods are called identifiers.
 
-![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 001](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/91f55133-9615-463d-8144-f23a42f315d5)
+![identifier](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/117cb80f-6600-4859-9c9f-ab3954b07c0c)
+
 
   
 
