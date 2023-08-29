@@ -1,3 +1,5 @@
+## Array
+
 
 **What is Array**
 
@@ -7,9 +9,33 @@ Normally, an array is a collection of similar type of elements which has a conti
 
 Java array is an object which contains elements of a similar data type. Additionally, The elements of an array are stored in a contiguous memory location. It is a data structure where we store similar elements. We can store only a fixed set of elements in a Java array. Array in Java is index-based, the first element of the array is stored at the 0th index, 2nd element is stored on 1st index, and so on.
 
-![Aspose Words fa48cee7-5a27-44b0-b207-89444d2a6cf3 001](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/b9f0f36c-3626-45e8-b576-6cde980d956d)
+
+**Types of Array in Java**
+
+---
+
+There are two types of arrays in Java:
+
+   1. Single dimensional array in Java
+  2.  Multi dimensional array in Java
+     
+
+**Advantages of using Java arrays**
+
+---
+
+Arrays help to increase code optimization
+It helps in ordering and indexing data structure to store a particular type of element
+It can also store variables and objects of class in java
+Every element of an array is held in a definite memory location 
 
 
+**Disadvantages of using Java arrays**
+
+---
+
+An array can only hold the same type of elements
+Removing and adding elements in very tough 
 
 
 
@@ -19,6 +45,14 @@ Java array is an object which contains elements of a similar data type. Addition
 ---
 
 Arrays in Java are essential data structures that allow us to store and manage multiple elements of the same data type in a single variable. They provide efficient memory allocation and fast access to elements, making it easier to work with collections of data and perform various operations like sorting, searching, and iteration.
+
+
+## Single Dimensional Array
+
+Single Dimensional Array in Java is basically a linear array that allows its user to store multiple values of the same data type. It's a collection of data that stores elements of the same type in a sequentially allocated space in memory. Single-Dimensional Arrays can be utilized to store both simple and complex data types, anything from strings, integers, and booleans to custom-made classes depending on the user's requirements. In memory, a one or single-dimensional array holds the data in a linear list. The index of the memory runs from the array size of 0 to -1. 
+
+
+![Aspose Words fa48cee7-5a27-44b0-b207-89444d2a6cf3 001](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/b9f0f36c-3626-45e8-b576-6cde980d956d)
 
 
 **Creating, initializing, and accessing an Array**
