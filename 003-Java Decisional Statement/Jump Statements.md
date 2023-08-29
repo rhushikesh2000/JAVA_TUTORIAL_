@@ -6,6 +6,8 @@ Java supports three jump statements: break, continue, and return. These three st
 
 **Break:**
 
+---
+
 In Java, a break is majorly used for
 Terminate a sequence in a switch statement or 
 To exit a loop.
@@ -44,6 +46,8 @@ first case
 ~~~
 
 **Continue:**
+
+---
 
 Sometimes it is useful to force an early iteration of a loop. That is, you might want to continue running the loop but stop processing the remainder of the code in its body for this particular iteration. This is, in effect, a go-to just past the body of the loop, to the loop’s end. The continue statement performs such an action.
 
@@ -84,6 +88,8 @@ public class GFG {
 ~~~
 
 **Return:** 
+
+---
 
 The return statement is used to explicitly return from a method. That is, it causes program control to transfer back to the caller of the method.
 
