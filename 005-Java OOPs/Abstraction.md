@@ -59,3 +59,42 @@ abstract type method-name(parameter-list);
 
 - Any class that contains one or more abstract methods must also be declared abstract
 - Abstract methods do not have a body: An abstract method is a method that does not have an implementation. It is declared using the abstract keyword and ends with a semicolon instead of a method body.
+
+**Example of Abstraction:**
+
+TestAbstraction1.java
+~~~java
+    abstract class Shape{
+
+    abstract void draw();
+
+    }
+~~~
+
+~~~java
+    //In real scenario, implementation is provided by others i.e. unknown by end user  
+    class Rectangle extends Shape{  
+    void draw(){
+System.out.println("drawing rectangle");
+}  
+    }
+
+    class Circle1 extends Shape{  
+    void draw(){
+System.out.println("drawing circle");
+}  
+    }
+
+    //In real scenario, method is called by programmer or user  
+    class TestAbstraction1{  
+    public static void main(String args[]){  
+    Shape s=new Circle1();//In a real scenario, object is provided through method, e.g., getShape() method
+
+    s.draw();  
+    }  
+    }  
+~~~
+**Output:**
+~~~
+drawing circle
+~~~
