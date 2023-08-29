@@ -30,8 +30,8 @@ Hello Java
 
 - **The append():** method is used to add characters, strings, or other objects to the end of the buffer.
 - **The insert():** method is used to insert characters, strings, or other objects at a specified position in the buffer.
-- **The delete():**method is used to remove characters from the buffer.
-- **The reverse():**method is used to reverse the order of the characters in the buffer.
+- **The delete():** method is used to remove characters from the buffer.
+- **The reverse():** method is used to reverse the order of the characters in the buffer.
 
 **There are several advantages of using StringBuffer over regular String objects in Java:**
 
