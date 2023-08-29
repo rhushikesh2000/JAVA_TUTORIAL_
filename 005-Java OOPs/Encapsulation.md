@@ -48,7 +48,7 @@ class Name {
 
 
 
-class GFG {
+class Guvi {
 
     public static void main(String[] args)
 
@@ -68,6 +68,10 @@ System.out.println("The age of the person is: "+ n1.getAge());
     }
 
 }
+~~~
+Output:
+~~~
+19
 ~~~
 **Advantages of Encapsulation in Java:**
 
