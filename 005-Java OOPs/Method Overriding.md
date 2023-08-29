@@ -63,6 +63,8 @@ Bike is running safely
 
 Consider a scenario where Bank is a class that provides functionality to get the rate of interest. However, the rate of interest varies according to banks. For example, SBI, ICICI and AXIS banks could provide 8%, 7%, and 9% rate of interest.
 
+![bankinheritance](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/c61d9caf-bf58-4534-9c69-da8f356bb96b)
+
 
 Example
 ```java
