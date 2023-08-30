@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>OOPs concept</td>
-    <td><a href="https://github.com/rhushikesh2000/JAVA_TUTORIAL_/tree/main/001-Java%20Introduction">OOPs concept</a></td>
+    <td><a href="https://github.com/rhushikesh2000/JAVA_TUTORIAL_/tree/main/005-Java%20OOPs">OOPs concept</a></td>
   </tr>
   <tr>
     <td>Packages</td>
