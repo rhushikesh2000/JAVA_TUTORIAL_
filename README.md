@@ -1,31 +1,9 @@
-# JAVA_TUTORIAL
-
-![Java-Logo](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/9b28d313-d122-49a1-81e3-7de5e2b5695c)
- 
-
-
-
+#### JAVA_TUTORIAL<img src="https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/9b28d313-d122-49a1-81e3-7de5e2b5695c" alt="Description of the image" width="100" height="50">
 
  <!DOCTYPE html>
 <html>
 <head>
-<style>
-  table {
-    border-collapse: collapse;
-    width: 50%;
-    margin: auto;
-  }
 
-  th, td {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: center;
-  }
-
-  th {
-    background-color: #f2f2f2;
-  }
-</style>
 </head>
 <body>
 
