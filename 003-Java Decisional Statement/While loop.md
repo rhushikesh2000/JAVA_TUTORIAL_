@@ -21,7 +21,9 @@ while (test\_expression)
 
 **Control flow**
 
-![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 006](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/46a01563-54ae-40da-a51c-6063387cce26)                   
+![while](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/59ca5f98-4a76-4ee9-a329-4bfaca72ea06)
+
+                
 **Example**
 
 ~~~java
