@@ -29,7 +29,8 @@ for (initialization expr; test expr; update exp)**
 1. The for loop has ended and the flow has gone outside.
 
 **Control flow**
-![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 007](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/dbbd1f22-db55-47c0-bd0d-e860cf8c3b35)
+
+![for loop](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/89d5d933-bfe0-4f66-9907-ca35dceb0e70)
 
 **Example**
 
