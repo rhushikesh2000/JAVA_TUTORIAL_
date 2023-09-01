@@ -20,7 +20,8 @@ for (T element: Collection obj/array)
 
 **Control Flow**
 
-![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 008](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/72089ef2-f8bc-4ab9-bb75-855d122cabc4)
+![for each](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/e6f7aef7-f575-4834-b526-5a5bd811bc68)
+
 
 **Example**
 
