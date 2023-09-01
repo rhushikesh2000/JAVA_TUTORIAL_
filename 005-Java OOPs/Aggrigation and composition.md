@@ -6,8 +6,8 @@
 - It is a unidirectional association i.e. a one-way relationship. For example, a department can have students but vice versa is not possible and thus unidirectional in nature.
 - In Aggregation, both entries can survive individually which means ending one entity will not affect the other entity.
 
-![Aggregation](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/6cf53ebb-efe8-42a9-aea2-b658be07e647)
 
+![aggrigation](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/d06f6d61-ecdc-4ede-a32e-be5305f557e8)
 
 **Understanding meaningful example of Aggregation**
 
@@ -74,8 +74,9 @@ gno UP india
 - In composition, both entities are dependent on each other.
 - When there is a composition between two entities, the composed object cannot exist without the other entity.
 
-![composition](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/4c337884-efbc-43a5-9bbb-9982b0bd22b7)
 
+
+![composition](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/f8df6592-27b2-47e7-9158-233f0ef12549)
 
 **Let's take an example of a university and its colleges to understand the concept of Composition.**
 
