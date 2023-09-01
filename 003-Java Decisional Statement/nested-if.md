@@ -24,7 +24,7 @@ if (condition1)
 ~~~
 **Control Flow**
 
-![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 003](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/0b99bba6-a23b-4685-9ced-93f47493099f)
+![nested if](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/949a8b70-c1e7-437d-9963-d16d20c48f87)
 
 
 
