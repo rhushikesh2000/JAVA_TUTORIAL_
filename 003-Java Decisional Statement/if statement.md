@@ -15,8 +15,11 @@ if(condition)
 
 }
 ~~~
+**Control flow:**
 
- ![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 001](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/02d00fa4-f50e-438e-8b9c-59de4d5d7358)
+
+ ![if](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/7bc64535-ba07-4542-bac6-65fb929008dd)
+
  
 Example :
 ~~~java
