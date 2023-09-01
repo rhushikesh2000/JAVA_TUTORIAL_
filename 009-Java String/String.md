@@ -48,7 +48,7 @@ String s1 = “ WelCome ”;
 String s2 = “ WelCome ”;
 ~~~
 
-![java-string](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/d5ceadd7-65b0-4d10-b6e7-6c850450d442)
+![string leatral](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/3a843803-b591-4d9b-acd7-e708281f1524)
 
 
 **2. Using new keyword**
@@ -67,9 +67,9 @@ In such a case, JVM will create a new string object in normal (non-pool) heap me
 
 ---
 
-![string-implements](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/de4635b0-90b1-43fe-adb1-4fe2abef4d19)
 
 
+![string class](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/f8cf38d0-82f8-47ea-bb79-a2ef4c50f064)
 
 
 **Strings in java are immutable. Now lets discuss some of the methods provided by String class. Methods:**
