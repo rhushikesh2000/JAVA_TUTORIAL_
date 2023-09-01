@@ -50,7 +50,9 @@ Sometimes, we require just method declaration in super-classes. This can be achi
 ~~~java
 abstract type method-name(parameter-list);
 ~~~
-![Aspose Words f3723b02-6634-4f10-85b1-e8cd9a1e8868 016](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/139f23b6-2e73-4f13-8b1f-f0addb669053)
+
+
+![abstract method](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/a30ada9e-dd75-4d4e-ae22-cf5ed083293f)
 
 
 **Important rules for abstract methods**
