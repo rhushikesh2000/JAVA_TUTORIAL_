@@ -1,7 +1,7 @@
 **JAVA Terminology**
 ---
 
-![Aspose Words a9c602e1-45e6-411d-a109-9c2950836050 008](https://github.com/rhushikesh2000/java/assets/124034778/0ffbcda7-1fe5-4a67-b7c0-c7c9823a0183)
+![java term](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/868b4a30-043d-4d5d-a8c7-6fd4d1552e5b)
 
 
 **Java Development Kit (JDK)**
@@ -11,7 +11,9 @@ As the name formally states, Java Development Kit is a full-time kit that has a 
 
 Here, as we use JDK, we need an environment to run the programs. We use JRE Java Runtime Environment, which provides the least requirements to execute the Java program. It provides the JVM, Core classes, and supporting files.
 
-![Aspose Words a9c602e1-45e6-411d-a109-9c2950836050 010](https://github.com/rhushikesh2000/java/assets/124034778/99902e79-e3ce-4209-bdc4-85255f055475)
+
+![jdk](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/ffa7b7b7-b5df-4581-92fe-59bb02e2a890)
+
 
 **Java Run-time Environment (JRE)**
 ---
@@ -37,7 +39,7 @@ It is a very important part not only of JDK but also JRE as it is inbuilt in bot
 
 The source code provided to the JAVAC compiler that is present in JDK gets compiled into a bytecode that the JVM can execute. It gets saved as a .class file by the compiler itself. We can also view this bytecode using a disassembler like javap.
 
-![Aspose Words a9c602e1-45e6-411d-a109-9c2950836050 014](https://github.com/rhushikesh2000/java/assets/124034778/bd11e2a5-8cbd-478e-a9d7-406f39ff3a4f)
+![byte process](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/15b60556-33e8-4a7a-9421-2be68876a4cd)
 
 
 
