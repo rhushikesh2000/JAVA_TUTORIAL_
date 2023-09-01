@@ -16,8 +16,8 @@
 
 
 
-![Encapsulation](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/ba60ad3f-be60-42e6-81c8-b55e5d6f1864)
 
+![encapsulation](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/580b3234-7087-48ba-80c1-8f182184a1bd)
 
 
 
