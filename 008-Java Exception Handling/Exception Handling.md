@@ -46,7 +46,8 @@ try {
 1. For each try block, there can be zero or more catch blocks, but only one final block.
 
 
-![Aspose Words 79714d40-67ba-4a78-a748-ddf1ce86cc4c 002](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/747ae4cd-97ed-458c-a356-2116167de6eb)
+
+![exception handling](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/7cddc493-a053-49b1-8f75-dda148f33536)
 
 **Example**
 
