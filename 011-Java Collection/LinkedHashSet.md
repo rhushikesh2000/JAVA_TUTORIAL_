@@ -5,9 +5,10 @@
 Java LinkedHashSet class is a Hashtable and Linked list implementation of the Set interface. It inherits the HashSet class and implements the Set interface.
 
 
-![java-linkedhashset-hierarchy](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/3950156b-d89e-4a79-a8dc-4cdf0d8a1fd0)
 
 
+
+![linked hash set](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/f6572e4b-1449-41df-9b97-3a26c8b97ac1)
 
 
 
