@@ -5,7 +5,8 @@
 
 As the name suggests, Object-Oriented Programming or OOPs refers to languages that use objects in programming, they use objects as a primary source to implement what is to happen in the code. Objects are seen by the viewer or user, performing tasks assigned by you. Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism, etc. in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
 
-![Aspose Words f3723b02-6634-4f10-85b1-e8cd9a1e8868 001](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/ef3dd185-555b-4a58-b61c-45909e1c5a2f)
+
+![oops basic](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/6eec95b1-2296-469d-9d1e-b076fa91d7e8)
 
 
 **List of OOPs Concepts in Java**
@@ -80,7 +81,8 @@ In general, class declarations can include these components, in order:
 - **Body:** The class body is surrounded by braces, { }.
 
 
-![classbody](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/495c7550-7677-413c-9441-d6b83afab150)
+
+![java class](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/bfdfef61-4145-4c4a-a282-c4798a47bcf6)
 
 
 
@@ -95,11 +97,13 @@ An object in Java is a basic unit of Object-Oriented Programming and represents 
 - Behavior: It is represented by the methods of an object. It also reflects the response of an object with other objects.
 - Identity: It gives a unique name to an object and enables one object to interact with other objects.
 
-![Classes-and-Objects-in-Java](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/8303a170-ecc8-4cc1-92e5-be4b751e58ba)
 
 
 
 
+
+
+![object](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/a0a8826a-4926-46ed-aae3-89b23799897a)
 
 
 
