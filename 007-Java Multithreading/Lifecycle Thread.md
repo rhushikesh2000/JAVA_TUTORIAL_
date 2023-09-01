@@ -14,7 +14,8 @@ A thread in Java at any point of time exists in any one of the following states.
 
 The diagram shown below represents various states of a thread at any instant in time.
 
-![Lifecycle-and-States-of-a-Thread-in-Java-768](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/e99e43a0-6931-4bd3-a96d-e6ec10a8cfd7)
+![stages of thread](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/5031c896-ba00-4935-b457-ac4693ff022b)
+
 
 
 - **New Thread:** When a new thread is created, it is in the new state. The thread has not yet started to run when the thread is in this state. When a thread lies in the new state, its code is yet to be run and hasn’t started to execute.
@@ -49,7 +50,8 @@ When a Java program starts up, one thread begins running immediately. This is us
 
 The flow diagram is as follows:
 
-![main-thread-in-java](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/eb90ee79-f7f2-49aa-b562-5861c8cf1692)
+![flow chart](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/11dbd927-7dc6-469d-b9b4-73025fcaf616)
+
 
 **Java Thread Pool**
 
