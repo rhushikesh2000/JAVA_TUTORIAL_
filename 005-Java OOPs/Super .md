@@ -14,7 +14,9 @@ Whenever you create the instance of subclass, an instance of parent class is cre
    - super() can be used to invoke immediate parent class constructor.
    
 
-![](https://static.javatpoint.com/images/usage-of-java-super.jpg)
+
+![super](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/53b53d4f-d7c7-4f38-a1f2-9a6705c129a8)
+
 
 **1) super is used to refer immediate parent class instance variable.**
     
