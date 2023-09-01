@@ -15,7 +15,7 @@ Java variable is a name given to a memory location. It is the basic unit of stor
 
 We can declare variables in Java as pictorially depicted below as a visual aid.
 
-![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 006](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/b8faa581-504a-4b58-97b8-4bd568e91f16)
+![variable declar](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/0b43046f-fe34-450b-9269-c86ca4c2fe77)
 
 
 From the image, it can be easily perceived that while declaring a variable, we need to take care of two things that are:
@@ -24,14 +24,15 @@ From the image, it can be easily perceived that while declaring a variable, we n
 
 - **data\_name**: Name was given to the variable.
 
-
 **How to Initialize Variables in Java?**
 
 ---
 
 It can be perceived with the help of 3 components that are as follows:
 
-![Variables-Syntax-in-Java](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/61408b89-dcb4-4259-820d-6a38d260331b)
+
+![initial var](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/b2f045e2-901c-4c78-a572-d1503a53742d)
+
 
 **datatype:** Type of data that can be stored in this variable.
 
@@ -155,4 +156,4 @@ class guvi {
  ---
  
  
- ![scope-and-lifetime-of-a-variable-summary](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/6062056d-fc19-4670-8c06-d20afa21b79f)
+![scop var](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/fedd0db6-0436-4138-ad47-8ed171113e24)
