@@ -21,7 +21,8 @@ A list of most important features of Java language is given below.
     -> Dynamic
     
 
-![features java](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/f4d0763b-0a90-48d2-9f3d-f14efb72c4b5)
+![java features](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/338726a6-9a05-4c9c-b2c4-f93dddd6caf7)
+
 
 
 
