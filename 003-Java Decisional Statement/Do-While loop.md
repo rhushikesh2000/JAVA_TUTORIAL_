@@ -39,7 +39,7 @@ while (test\_expression);
 **Example**
 
 ~~~java
-class GFG {
+class Guvi {
  
     // Main driver method
     public static void main(String[] args)
