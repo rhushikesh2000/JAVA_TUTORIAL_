@@ -37,7 +37,8 @@ There are two types of constructors in Java:
    
 ------
 
-![](https://static.javatpoint.com/images/core/java-constructor.png)
+![constructor](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/0dd70c4a-4321-4e9d-9a3f-f4007d38da8a)
+
 
 ----
 
