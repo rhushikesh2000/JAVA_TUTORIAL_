@@ -39,7 +39,7 @@ The Java compiler adds public and abstract keywords before the interface method.
 
 In other words, Interface fields are public, static and final by default, and the methods are public and abstract.
 
-![](https://static.javatpoint.com/images/interface.png)
+![internal add interface](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/d427b13e-0628-4458-a2f9-794f7c39c643)
 
 ------
 
@@ -49,7 +49,9 @@ In other words, Interface fields are public, static and final by default, and th
 
 As shown in the figure given below, a class extends another class, an interface extends another interface, but a class implements an interface.
 
-![](https://static.javatpoint.com/images/core/interfacerelation.jpg)
+
+![class interface](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/e223243b-dcbf-47e9-82a3-0f1c803a7441)
+
 
 ##### Java Interface Example
 
