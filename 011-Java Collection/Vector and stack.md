@@ -4,11 +4,11 @@
 
 The Vector class implements a growable array of objects. Vectors fall in legacy classes, but now it is fully compatible with collections. It is found in java.util package and implement the List interface, so we can use all the methods of the List interface as shown below as follows:
 
-![vector](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/44488734-5239-4cc2-840f-6131de48a005)
 
 
 
 
+![vector1](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/8ac6feb7-313d-4172-a4c5-590de28f62a4)
 
 
 
@@ -58,12 +58,13 @@ The stack is a linear data structure that is used to store the collection of obj
 
 The stack data structure has the two most important operations that are push and pop. The push operation inserts an element into the stack and pop operation removes an element from the top of the stack. Let's see how they work on stack.
 
-![stack](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/2a4dc8fa-6b33-495b-8a87-c751ffa7bd7d)
 
 
 
 
 
+
+![stack 2](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/da7004d9-1aa4-4dbb-8c99-6c78615e4fe4)
 
 
 
