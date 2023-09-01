@@ -1,4 +1,4 @@
-# Inheritance in java
+![hirerchi](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/fdb83f63-e57e-404c-b486-1dfbf97b26c2)# Inheritance in java
 
 Java, Inheritance is an important pillar of OOP(Object-Oriented Programming). It is the mechanism in Java by which one class is allowed to inherit the features(fields and methods) of another class. In Java, Inheritance means creating new classes based on existing ones. A class that inherits from another class can reuse the methods and fields of that class. In addition, you can add new fields and methods to your current class as well.
 
@@ -57,7 +57,8 @@ Below are the different types of inheritance which are supported by Java.
 
 In single inheritance, subclasses inherit the features of one superclass. In the image below, class A serves as a base class for the derived class B.
 
-![Aspose Words f3723b02-6634-4f10-85b1-e8cd9a1e8868 008](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/f079aa30-1c52-4d0c-abe0-82e6b6b328e6)
+![single inheri](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/0aa18ace-3c42-4a9e-9c3e-e7711112682e)
+
 
 **Example:**
 ~~~java
@@ -111,9 +112,10 @@ public class Main {
 
 In Multilevel Inheritance, a derived class will be inheriting a base class, and as well as the derived class also acts as the base class for other classes. In the below image, class A serves as a base class for the derived class B, which in turn serves as a base class for the derived class C.
 
-![Aspose Words f3723b02-6634-4f10-85b1-e8cd9a1e8868 009](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/04adb185-5303-4cf5-83e8-3f58644755f8)
 
 
+
+![multilevel](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/01403b45-89d0-4bba-99d8-32715f1b23bb)
 
 
 
@@ -186,7 +188,9 @@ public class Main {
 In Hierarchical Inheritance, one class serves as a superclass (base class) for more than one subclass. In the below image, class A serves as a base class for the derived classes B, C, and D.
 
 
-![Aspose Words f3723b02-6634-4f10-85b1-e8cd9a1e8868 010](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/9303bf9c-233d-4dbf-9d57-f8ee30d4da74)
+![hirerchi](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/4930ccb6-f295-409a-84ad-7e245235b1a6)
+
+
 
 
 **Example:**
@@ -263,8 +267,11 @@ public class Test {
 ---
 
 In Multiple inheritances, one class can have more than one superclass and inherit features from all parent classes. Please note that Java does not support multiple inheritances with classes. In Java, we can achieve multiple inheritances only through Interfaces. In the image below, Class C is derived from interfaces A and B.
-![Aspose Words f3723b02-6634-4f10-85b1-e8cd9a1e8868 011](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/797d1c3e-bf1d-47f3-82f8-976813922c87)
 
+
+
+
+![multiple](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/36d01f81-954f-4c35-a6ef-b94ad179e9c5)
 
 
 
@@ -336,7 +343,8 @@ public class Main {
 
 It is a mix of two or more of the above types of inheritance. Since Java doesn’t support multiple inheritances with classes, hybrid inheritance is also not possible with classes. In Java, we can achieve hybrid inheritance only through Interfaces.
 
-![Aspose Words f3723b02-6634-4f10-85b1-e8cd9a1e8868 012](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/67798de7-0661-448c-8415-9be8b23dbb5b)
+
+![hybrid](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/8f5c67fa-f60f-4873-b143-4864b163a861)
 
 
 **Advantages Of Inheritance in Java:**
