@@ -3,8 +3,9 @@
 
 The set interface is present in java.util package and extends the Collection interface. It is an unordered collection of objects in which duplicate values cannot be stored. It is an interface that implements the mathematical set. This interface contains the methods inherited from the Collection interface and adds a feature that restricts the insertion of the duplicate elements.
 
-![Java-Set-Interface-hierarchy](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/cc914244-759e-46a4-be46-de3bfa1e16a3)
 
+
+![set](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/012b95da-01e1-43fe-8091-5217f1a325ed)
 
 
 
