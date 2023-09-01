@@ -108,8 +108,9 @@ arr[0][0] = 1;
 
 A two – dimensional array can be seen as a table with ‘x’ rows and ‘y’ columns where the row number ranges from 0 to (x-1) and column number ranges from 0 to (y-1). A two – dimensional array ‘x’ with 3 rows and 3 columns is shown below:
 
-![Aspose Words fa48cee7-5a27-44b0-b207-89444d2a6cf3 002](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/5129d8ae-0e7a-4cc1-a756-bebf2ebb5745)
 
+
+![2d array](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/464391fa-c3a0-468c-a840-e10b0b8af0e3)
 
 
 **Three – dimensional Array (3D-Array)**
@@ -181,8 +182,9 @@ Note: In arrays if size of array is N. Its index will be from 0 to N-1. Therefor
 
 **Representation of 3D array in Tabular Format:**
 
-![Aspose Words fa48cee7-5a27-44b0-b207-89444d2a6cf3 003](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/040bc6a1-f37b-4a87-82bb-4c802517e5a8)
 
+
+![3d array](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/2baf8f79-b995-4ade-b792-98ae198c5362)
 
 
 
