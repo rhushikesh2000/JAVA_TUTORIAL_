@@ -24,9 +24,9 @@ Polymorphism is considered one of the important features of Object-Oriented Prog
 
 
 
+![polymorphism](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/859037bf-d756-450a-896a-84c52ec53fb0)
 
 
-![Aspose Words f3723b02-6634-4f10-85b1-e8cd9a1e8868 018](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/28e97c76-644a-40b8-b847-c636ecf0d8d3)
 
 
 
@@ -242,5 +242,5 @@ subclass2
 **Difference between Compile-time Polymorphism and Runtime Polymorphism**
 
 
+![compile vs run](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/b8c19fa7-4ca6-4d6a-abc6-68cba6f07db6)
 
-![Aspose Words f3723b02-6634-4f10-85b1-e8cd9a1e8868 019](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/b7dcb123-56fa-450d-a216-2d104dc7ebfb)
