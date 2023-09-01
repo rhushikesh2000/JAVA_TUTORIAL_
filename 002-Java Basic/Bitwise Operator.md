@@ -34,8 +34,8 @@ Let's explain the bitwise operator in detail.
 
 It is a binary operator denoted by the symbol **&**. It returns 1 if and only if both bits are 1, else returns 0.
 
-![Aspose Words 11f50469-bd22-460b-99e4-eb3807001bec 001](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/3b31be6e-995b-498f-80a2-ee150a2b8dff)
 
+![and](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/43fb2c3f-64cf-41a5-92db-115d007749e7)
 
 
 Let's use the bitwise AND operator in a Java program.
@@ -76,7 +76,7 @@ x & y = 8
 
 It is a binary operator denoted by the symbol **^** (pronounced as caret). It returns 0 if both bits are the same, else returns 1.
 
-![Aspose Words 11f50469-bd22-460b-99e4-eb3807001bec 003](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/b31e6085-6a22-459e-b312-254ddf255876)
+![exor](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/d7636e4c-ff5c-4893-890e-dfd618866f2d)
 
 
 **BitwiseXorExample.java**
@@ -114,7 +114,9 @@ x ^ y = 1
 
 It is a binary operator denoted by the symbol **|** (pronounced as a pipe). It returns 1 if either of the bit is 1, else returns 0.
 
-![Aspose Words 11f50469-bd22-460b-99e4-eb3807001bec 004](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/eaff96c9-2679-4bcc-adae-bcf37ee9e3f7)
+
+
+![inor](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/fd689b10-9397-499d-9532-ae87645ec277)
 
 Let's use the bitwise exclusive OR operator in a Java program.
 
@@ -152,7 +154,7 @@ x | y = 9
 
 It is a unary operator denoted by the symbol **~** (pronounced as the tilde). It returns the inverse or complement of the bit. It makes every 0 a 1 and every 1 a 0.
 
-![Aspose Words 11f50469-bd22-460b-99e4-eb3807001bec 005](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/62a111a4-9bdc-4935-9e4b-6b17b8c603a7)
+![comp](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/827a83ea-25c6-466c-aa98-2ea59b0e16e2)
 
 Let's use the bitwise complement operator in a Java program.
 
@@ -221,7 +223,8 @@ The signed right shift operator shifts a bit pattern of a number towards the **r
 In general, if we write a>>n, it means to shift the bits of a number toward the right with a specified position (n). In the terms of mathematics, we can represent the signed right shift operator as follows:
 
 
-![Aspose Words 11f50469-bd22-460b-99e4-eb3807001bec 006](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/664cf5f3-d8f7-4f4e-84db-092ba96cea74)
+
+![right shift](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/c35e6f08-98a1-477b-94cc-5cc10c0e869c)
 
 `
 Note: When we apply right shift operator on a positive number, we get the positive number in the result also. Similarly, when we apply right shift operator on a negative number, we get the negative number in the result also.
@@ -282,7 +285,7 @@ The signed left shift operator (<<) shifts a bit pattern to the left. It is repr
 In general, if we write a<<n, it means to shift the bits of a number toward the left with specified position (n). In the terms of mathematics, we can represent the signed right shift operator as follows:
 
 
-![Aspose Words 11f50469-bd22-460b-99e4-eb3807001bec 007](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/de5e29c5-4acf-443e-9f3b-8014a36419f9)
+![left shift](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/81865044-1382-4a84-8463-53d96c8fbf56)
 
 
 **Example 1: What will be the result after shifting a<<3. The value of a is 20.**
