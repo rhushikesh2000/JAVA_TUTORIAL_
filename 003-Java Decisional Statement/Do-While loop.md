@@ -34,7 +34,8 @@ while (test\_expression);
 
 **Control Flow**
 
-![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 009](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/4b23f694-1465-4327-a298-17b096852576)
+![do while](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/1539b253-c825-4ac2-960d-38ade19623d0)
+
 
 **Example**
 
