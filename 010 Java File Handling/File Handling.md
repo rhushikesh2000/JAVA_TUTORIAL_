@@ -1,7 +1,8 @@
 ## File Handling
 
 
-![file handling ](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/70f8a998-cefe-4ff9-a556-d1b578372751)
+
+![file handling](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/654794ee-11ad-4599-82e1-2b66dbfd30ad)
 
 
 
@@ -30,10 +31,10 @@ Before understanding the File operations, it is required that we should have kno
 
 A series of data is referred to as a stream. In Java, Stream is classified into two types, i.e., Byte Stream and Character Stream.
 
-![file-operations-in-java](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/a55b3109-17a4-457c-9221-d7751f607796)
 
 
 
+![stream](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/40e37a4f-e07d-4499-ad90-68a8acf67e44)
 
 
 
