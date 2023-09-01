@@ -55,7 +55,7 @@ case value2 :
 
 **Control Flow**
 
-![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 005](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/bb331fee-5e34-408d-b542-f1ab45fe66e8)
+![switch](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/658efce6-1f59-4c4c-bd49-26e33845f054)
 
 **Example:**
 
