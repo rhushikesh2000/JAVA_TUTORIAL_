@@ -22,8 +22,9 @@ In other words, If a subclass provides the specific implementation of the method
    2. The method must have the same parameter as in the parent class.
    3. There must be an IS-A relationship (inheritance).
    
-![](https://static.javatpoint.com/images/java-rules-for-method-overriding.png)
 
+
+![rule overriding](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/d95645d8-574d-4e25-802b-596afad57adc)
 
 
 
@@ -70,7 +71,8 @@ In this example, we have defined the run method in the subclass as defined in th
 
 Consider a scenario where Bank is a class that provides functionality to get the rate of interest. However, the rate of interest varies according to banks. For example, SBI, ICICI and AXIS banks could provide 8%, 7%, and 9% rate of interest.
 
-![bankinheritance](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/c61d9caf-bf58-4534-9c69-da8f356bb96b)
+![real exaple overriding](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/90c599fe-a2fc-4f9c-9e34-d8a0e8ac9f60)
+
 
 
 Example
