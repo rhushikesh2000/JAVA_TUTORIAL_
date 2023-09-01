@@ -28,7 +28,7 @@ Naming Convention for User-defined Package in Realtime Project
 
 While developing your project, you must follow some naming conventions regarding packages declaration. Let’s take an example to understand the convention.
 
-![package-naming-convention](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/961ddaa4-2b9a-4eb8-aacf-26b55a501590)
+![build in pack](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/9f0d85f2-7763-41a1-9a91-309a98f1e8da)
 
 
 **How to Create Package in Eclipse IDE?**
@@ -37,11 +37,11 @@ While developing your project, you must follow some naming conventions regarding
 
 In Eclipse IDE, there are the following steps to create a package in java. They are as follows:
 
-1\.Right-click on the src folder as shown in the below screenshot
-
-![Aspose Words 277065cb-7b3e-4c96-8d8d-65d8f05a614c 002](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/333886ca-f4a5-4006-b252-086d3685c4dd)
+1. Right-click on the src folder as shown in the below screenshot
 
 
+
+![how to create package](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/30885c93-65be-4032-9f72-a05a15290bcd)
 
 
 
@@ -59,7 +59,10 @@ Predefined packages in Java are those which are developed by Sun Microsystem. Th
 
 Java APIs contains the following predefined packages, as shown in the below figure:
 
-![Aspose Words 277065cb-7b3e-4c96-8d8d-65d8f05a614c 003](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/bdaae051-6732-4364-97d1-53727c992d97)
+
+![build in pack](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/fdd5a3b5-35ec-490d-86f6-393726c95a90)
+
+
 
 **Java Core Packages:**
 
@@ -89,10 +92,10 @@ There are three approaches to import one package into another package in Java.
 
 An import is a keyword that is used to make the classes and interfaces of other packages accessible to the current package. If we use package.\*, all the classes and interfaces of this package can be accessed (imported) from outside the packages. Let’s understand it by a simple example program.
 
-![Aspose Words 277065cb-7b3e-4c96-8d8d-65d8f05a614c 004](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/1aa96999-a177-49b9-bf4f-3ce24f9a0839)
 
 
 
+![using star](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/19b68394-43e6-4da5-a3a1-33991cc1fefa)
 
 
 
@@ -106,7 +109,9 @@ An import is a keyword that is used to make the classes and interfaces of other 
 
 If you import packageName.className, you can only access the declared class of this package. 
 
-![60c32dab395ca2b5d181b730_https2F2Fsecure notion-static com2FUntitled_Diagram_(1)](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/790fa364-8a4f-4524-8e4f-77c807350ea5)
+![using class name](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/7c46da37-de5e-4653-9e0b-2452fff4cc1b)
+
+
 
 **Key points:**
 
