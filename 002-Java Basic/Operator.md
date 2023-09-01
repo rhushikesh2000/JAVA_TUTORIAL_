@@ -12,14 +12,16 @@ Operators in Java are the symbols used for performing specific operations in Jav
 ---
 These operators involve the mathematical operators that can be used to perform various simple or advanced arithmetic operations on the primitive data types . 
 
-![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 009](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/b939f147-d8ce-4f2b-9376-a8353ed527b4)
+![airth](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/3f10e529-25ea-494a-9c48-f1c6b4811792)
+
 
 2. **Unary Operators in Java**
 
 ---
 
 Java unary operators are the types that need only one operand to perform any operation like increment, decrement, negation, etc.
-![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 010](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/5ab0858d-253f-4154-bd5c-72d685bbbfd3)
+
+![unary](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/9ca97c45-edb3-4acf-b8df-10b8851c3887)
 
 
 3. **Assignment Operators**
@@ -28,7 +30,7 @@ Java unary operators are the types that need only one operand to perform any ope
 
 These operators are used to assign values to a variable. The left side operand of the assignment operator is a variable, and the right side operand of the assignment operator is a value. 
 
-![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 011](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/8a716b30-274c-49f9-a082-994e40781b8b)
+![assign](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/4dfa106d-d866-46e2-b927-23086938cf7b)
 
 
 
@@ -39,7 +41,8 @@ These operators are used to assign values to a variable. The left side operand o
 
 Java Relational Operators are a bunch of binary operators used to check for relations between two operands, including equality, greater than, less than, etc. They return a boolean result .
 
-![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 012](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/e561afb6-f15b-42b1-bff6-67e7f231abad)
+![relation](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/41dcd1a3-fffc-4ff0-bcf8-032af948a738)
+
 
 5. **Logical Operators**
 
@@ -47,8 +50,9 @@ Java Relational Operators are a bunch of binary operators used to check for rela
 
 Logical operators are used to performing logical “AND”, “OR” and “NOT” operations, i.e. the function similar to AND gate and OR gate in digital electronics. They are used to combine two or more conditions/constraints or to complement the evaluation of the original condition under particular consideration. 
 
-![Logical-Operators](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/acc6b0e8-61a2-4dbe-9f31-4d799ec2a72d)
 
+
+![logical](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/4a3c5495-ec58-4ebc-8352-5bee9ec9394e)
 
 
 
@@ -62,5 +66,6 @@ Java ternary operator is the only conditional operator that takes three operands
 ~~~
  variable = Expression1 ?  Expression2 : Expression3
 ~~~
-![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 014](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/59929c5b-ca9a-42bb-a45b-6809d8e696d6)
+
+![turnary](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/b3b3dc03-eb56-4b87-96e3-a44ad11534e8)
 
