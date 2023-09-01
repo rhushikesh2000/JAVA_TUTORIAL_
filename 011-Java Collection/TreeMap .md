@@ -3,7 +3,7 @@
 
 Java TreeMap class is a red-black tree based implementation. It provides an efficient means of storing key-value pairs in sorted order.
 
-![java-treemap ](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/d5a3d82b-bf6a-434e-a5ba-b42320164d95)
+![treemap](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/7b101565-e49b-4ced-ae81-c563803bad6d)
 
 
 **The important points about Java TreeMap class are:**
