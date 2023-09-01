@@ -14,9 +14,10 @@ Data types in Java are of different sizes and values that can be stored in the v
 1. **Non-Primitive Data Type or Object Data type:** such as String, Array, etc.
 
 
-![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 003](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/77b8982f-9427-488b-9346-c8f8619ed8ca)
 
 
+
+![datatypes](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/3bbd24d1-fb93-4eaf-bcc2-07391a69b79d)
 
 
 
@@ -154,10 +155,11 @@ String s1 = new String("welcome to guvi");
 ~~~
 **Primitive data type vs. non-primitive type in Java**
 
-![difference-between-primitive-and-non-primitive-datatypes-12-1650387712](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/0be1bcd4-4324-4180-88f8-be280691e24c)
 
 
 
+
+![p vs non p](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/3b110a14-bbef-49f9-b7cd-aef27e171cfe)
 
 
 
