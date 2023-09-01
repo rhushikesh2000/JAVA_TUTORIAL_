@@ -6,7 +6,7 @@
 Single Dimensional Array in Java is basically a linear array that allows its user to store multiple values of the same data type. It's a collection of data that stores elements of the same type in a sequentially allocated space in memory. Single-Dimensional Arrays can be utilized to store both simple and complex data types, anything from strings, integers, and booleans to custom-made classes depending on the user's requirements. In memory, a one or single-dimensional array holds the data in a linear list. The index of the memory runs from the array size of 0 to -1. 
 
 
-![Aspose Words fa48cee7-5a27-44b0-b207-89444d2a6cf3 001](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/b9f0f36c-3626-45e8-b576-6cde980d956d)
+![single dimensional](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/56bea5a8-3839-4087-acf2-80018a29e3ae)
 
 
 **Creating, initializing, and accessing an Array**
