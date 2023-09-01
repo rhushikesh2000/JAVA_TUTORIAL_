@@ -9,26 +9,30 @@ In the first step, Open your browser and navigate to this URL
 
  **Step 2:** Then, click on the “Download” button to download Eclipse IDE.
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 002](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/f8ff1346-20bf-49e0-b446-6f38c37b3163)
+![ec2](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/0c78e575-7beb-4037-bd48-7d32233ce2ea)
 
 
 **Step 3:** Now, click on the “Download x86\_64” button.
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 003](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/81c8424f-e27a-4b07-a861-74fcaaf6dcd2)
+![ec3](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/cf5bd5a9-e46e-4235-8a3a-9a2707547115)
+
 
 **Step 4:** 
 Then click on the “Download” button. After clicking on the download button the .exe file for the eclipse will be downloaded.
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 004](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/6523ecc7-f40b-4b12-ada9-d83ffd321d02)
+![ec4](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/af3c08ce-8ead-464a-ad31-9549f2e21de2)
+
 
 **Step 5:** Now go to  “Downloads” after that click on the “eclipse-inst-jre-win64.exe” file to install Eclipse IDE.
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 005](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/b21c8f6a-20de-4140-91a7-ff84d25595ea)
+![ec5](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/287b0e93-0c6c-44b0-b365-997e4abda6f4)
+
 
 **Step 6:** Then, click on “Eclipse IDE for Java Developers”.
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 006](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/478179b3-5d64-4d41-9129-33f12c988ffd)
 
+
+![ec6](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/4c9764cc-0cda-47dc-9ddd-e0247a699b5e)
 
 
 
@@ -40,21 +44,24 @@ Then click on the “Download” button. After clicking on the download button t
 
 **Step 7:** Then, click on the “Install” button.
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 007](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/bb9ea22d-2784-4796-a524-70b8f35dafc5)
+![ec7](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/39ce6da1-2658-4740-ba38-52da8faa36d4)
 
 **Step 8:** Now click on “Create a new Java project”.
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 008](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/126b6410-f99b-46b6-9063-ce85bc019523)
+![ec8](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/84cfd1cf-5fda-4a6f-a951-2d26275e2baf)
+
 
 Now, you are ready to make new Java projects using eclipse IDE and the screen will look like this :
 
-![Aspose Words bb5e960a-4912-47af-99fa-a67d00a1b887 009](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/f0466a5e-1b83-41fc-8ede-413d7aa455ea)
+
+![ec9](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/c06a80f2-073c-489f-9954-39c2013f681a)
 
 **Java First program** 
 ---
 **Step 1:** To create a new Java project in Eclipse, go to **File > New > Project.**
 
-![how-to-run-java-program-in-eclipse-step1](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/ca56ac3f-7dbf-4363-914f-4fae4512cd5f)
+
+![java p1](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/be09b79b-c81d-43b4-9816-a2aa6d93b5c6)
 
 
 
@@ -67,7 +74,8 @@ Now, you are ready to make new Java projects using eclipse IDE and the screen wi
 
 **Step 4:** It is recommended to create a package for your project. Right-click on the project option, and select New > Package from the context menu like this:
 
-![java programm -2](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/2a191643-e117-459e-83a5-0ee83b738a27)
+
+![jp4](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/013cb090-67d8-461f-91ed-7e06eb011261)
 
 
 **Step 5:** In the New Java Package dialog, enter the name of your package. Here I have entered com.techvidvan.helloworldprogram:
@@ -75,7 +83,9 @@ Now, you are ready to make new Java projects using eclipse IDE and the screen wi
 
 **Step 6:** To create a new Java class under a specified package, right-click on the package and select New > Class from the context menu:
 
-![java programm -3](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/a78e0500-dd75-4e59-b8ce-92b630ebeba8)
+![jp6](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/5207fe1b-6868-4e42-bf60-4f0ad7e4080f)
+
+
 **Step 7:** The New Java Class dialog appears, type the name of the class as HelloWorld and choose the option to generate the main() method:
 
 **Step 8:** Edit the generated ‘HelloWorld’ java class as per the following code.
