@@ -7,7 +7,7 @@ The List interface in Java provides a way to store the ordered collection. It is
 The List interface is found in java.util package and inherits the Collection interface. It is a factory of the ListIterator interface. Through the ListIterator, we can iterate the list in forward and backward directions. The implementation classes of the List interface are ArrayList, LinkedList, Stack, and Vector. ArrayList and LinkedList are widely used in Java programming.
 
 
-![Java-list-interface](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/9f7e8cfb-6edb-4eb9-b38b-bef27b8614ee)
+![list interface](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/994952df-7f19-46e2-8b01-632da12bd2ad)
 
 
 
