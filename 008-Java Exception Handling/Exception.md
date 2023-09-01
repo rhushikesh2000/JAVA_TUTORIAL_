@@ -15,7 +15,7 @@ In Java, Exception is an unwanted or unexpected event, which occurs during the e
 
 **Exception Hierarchy:**
 
-![Exception-in-java1](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/c829e35b-0ab5-46d6-8231-6610b9d0012f)
+![exception hirerchi](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/b0ad0707-5395-4f32-ad6d-0127d3b85182)
 
 
 
