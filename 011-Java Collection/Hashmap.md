@@ -2,7 +2,9 @@
 
 In Java, Map Interface is present in java.util package represents a mapping between a key and a value. Java Map interface is not a subtype of the Collection interface. Therefore it behaves a bit differently from the rest of the collection types. A map contains unique keys.
 
-![java-map-hierarchy](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/45dafd26-4512-4947-a63b-71ee0f1a7325)
+
+
+![map](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/04e98ce4-19c2-403e-8e35-228c2e90c6b3)
 
 
 **why and when to use Maps.**
