@@ -13,7 +13,8 @@ There are four types of access modifiers available in Java:
 1. Public
 
 
-![Access-Modifiers-in-Java-1-768](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/bfa4c4fa-9f89-4868-a56d-e34d96fc61b6)
+![modifier type](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/3acaf723-97e4-4fb2-9e00-3fff0274fdde)
+
 
 
 **1.Default Access Modifier**
@@ -50,6 +51,6 @@ The public access modifier is specified using the keyword public.
 - The public access modifier has the widest scope among all other access modifiers.
 - Classes, methods, or data members that are declared as public are accessible from everywhere in the program. There is no restriction on the scope of public data members.
 
-![ModifiersTypesInJavapng](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/8c4c7225-1746-4fe4-a641-0cdfc7870e4d)
 
+![modi accesibility](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/4b2f8b31-8b94-494f-9eac-0cedf404796b)
 
