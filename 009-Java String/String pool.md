@@ -96,8 +96,9 @@ String str1 = "Hello";
 ~~~
 The following illustration explains the memory allocation for the above declaration:
 
-![Aspose Words 26479d7e-6c73-45cd-9002-f78bf423a012 001](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/e1456d23-c2d3-4e5e-bee9-a685320ac927)
 
+
+![String pool1](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/6a1280d2-b115-4137-a76a-eee2f141e8ef)
 
 
 In the above scenario, a string object is created in the stack, and the value “Hello” is created and stored in the heap. Since we have normally assigned the value, it is stored in the constant pool area of the heap. A pointer points towards the value stored in the heap from the object in the stack. Now, let’s take the same example with multiple string variables having the same value as follows:
@@ -109,8 +110,9 @@ String str2 = "Hello";
 ~~~
 The following illustration explains the memory allocation for the above declaration: 
 
-![Aspose Words 26479d7e-6c73-45cd-9002-f78bf423a012 002](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/2f336f83-22dd-4e8c-aa6d-1efbdfedc0d7)
 
+
+![string pool 2](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/989db4db-ae13-4690-8afe-358680f63c6e)
 
 
 In this case, both the string objects get created in the stack, but another instance of the value “Hello” is not created in the heap. Instead, the previous instance of “Hello” is re-used. The *string constant pool* is a small cache that resides within the heap. Java stores all the *values* inside the string constant pool on direct allocation. This way, if a similar value needs to be accessed again, a new string object created in the stack can reference it directly with the help of a pointer. In other words, the string constant pool exists mainly to reduce memory usage and improve the reuse of existing instances in memory. When a string object is assigned a different value, the new value will be registered in the string constant pool as a separate instance. 
@@ -127,7 +129,9 @@ String str3 = "Class";
 
 The following illustration explains the memory allocation for the above declaration: 
 
-![Aspose Words 26479d7e-6c73-45cd-9002-f78bf423a012 003](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/b0a8a662-a297-466a-895e-6ca8312e0015)
+
+![String pool 3](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/76dbe5f4-f7e7-44c4-9da1-13a7b8c1c1b2)
+
 
 One way to skip this memory allocation is to use the **new keyword** while creating a new string object. The ‘new’ keyword forces a new instance to always be created regardless of whether the same value was used previously or not. Using ‘new’ forces the instance to be created in the heap outside the string constant pool which is clear, since caching and re-using of instances isn’t allowed here. 
 
@@ -143,8 +147,9 @@ The following illustration explains the memory allocation for the above declarat
 
 
 
+![String pool 4](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/fce494ea-f18c-48a3-844f-7dac8b0788cb)
 
-![Aspose Words 26479d7e-6c73-45cd-9002-f78bf423a012 004](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/c9395e4f-5c5a-47a7-8b6b-411f331041df)
+
 
 
 
