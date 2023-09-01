@@ -4,7 +4,8 @@
 
 Java LinkedHashMap class is Hashtable and Linked list implementation of the Map interface, with predictable iteration order. It inherits HashMap class and implements the Map interface.
 
-![linkedhashmap-hierarchy](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/13de64e7-6093-44c0-a478-fe9b9c7714d1)
+
+![linked hashmap](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/6373969a-8d31-470c-ab85-818028ee924b)
 
 
 **Points to remember**
