@@ -38,8 +38,9 @@ In general, method declarations have 6 components:
 - Parameter list: Comma-separated list of the input parameters is defined, preceded by their data type, within the enclosed parenthesis. If there are no parameters, you must use empty parentheses ().  It is Optional in syntax.
 - Method body: it is enclosed between braces. The code you need to be executed to perform your intended operations.  It is Optional in syntax.
 
-![Aspose Words f3723b02-6634-4f10-85b1-e8cd9a1e8868 004](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/4e215dc5-a2c9-415e-8248-e512eb457189)
 
+
+![method](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/2065cd2f-f528-44cd-952c-562cc1ede8ec)
 
 
 
@@ -55,4 +56,5 @@ A method returns to the code that invoked it when:
 - It reaches a return statement
 - Throws an exception
 
-![java-method-return-value](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/d89d5119-7ea3-45fb-9754-2ac88c8d1cbe)
+![method calling](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/046df5fa-9275-40ab-b08b-64b439e01798)
+
