@@ -34,8 +34,9 @@ Collection<E> objectName = new ArrayList<E>();
 
 
 
-![collection](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/d6b1a33d-7a58-4868-8af4-0b3e0d81122c)
 
+
+![collection interface](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/e7f2256e-0d0c-43d4-872a-eed274e3f0a5)
 
 
 
