@@ -22,7 +22,8 @@ Hello Java
 **StringBuffer Constructors**
 
 
-![stringbuffer](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/4014d0b7-5424-41b9-bb66-b8eddebef19d)
+![Stringbuffer](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/b83ec72d-fa72-497f-be0e-a0a1fa157b18)
+
 
 **Here are some important features and methods of the StringBuffer class:**
 
