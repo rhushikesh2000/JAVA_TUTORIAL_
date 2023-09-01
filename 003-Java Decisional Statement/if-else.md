@@ -26,8 +26,8 @@ else
 ~~~
 **Control flow :**
 
+![if else](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/39d23575-da45-47d6-9887-f2811b3a2223)
 
-![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 002](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/da560526-3b6a-4a90-a2b0-a02a1f619c10)
 
 **Example:**
 ~~~java
