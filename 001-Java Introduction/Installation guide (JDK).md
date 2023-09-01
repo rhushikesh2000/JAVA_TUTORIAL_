@@ -15,7 +15,7 @@ Installation guide (JDK)
 
 **Step 3:** 
 ---
-![Aspose Words f34fb923-a537-4b9b-8671-08be93095383 006](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/319eca46-36cc-403a-9f4a-5946be06f923)
+![jdk3](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/319eca46-36cc-403a-9f4a-5946be06f923)
 
 After the downloading procedure is complete, we need to run the installer
 
@@ -25,7 +25,7 @@ After the downloading procedure is complete, we need to run the installer
 ---
 Once Java installation wizard opens, click on the Next button as shown below:
 
-![Aspose Words f34fb923-a537-4b9b-8671-08be93095383 007](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/c5f5eb93-8e2a-4186-988a-8007dafc8afe)
+![jdk4](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/c5f5eb93-8e2a-4186-988a-8007dafc8afe)
 
 
 
@@ -43,7 +43,7 @@ Once Java installation wizard opens, click on the Next button as shown below:
 ---
 Again click on the Next button if we wish to install Java development kit in the default directory(encircled with green color), or we can change this directory by clicking on Change button.  
 
-![Aspose Words f34fb923-a537-4b9b-8671-08be93095383 008](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/52a0cd37-eb3b-4363-9f37-5dc9df74fe86)
+![jdk5](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/52a0cd37-eb3b-4363-9f37-5dc9df74fe86)
 
 
 
@@ -59,7 +59,7 @@ Again click on the Next button if we wish to install Java development kit in the
 ---
 The installation will begin as shown below:
 
-![Aspose Words f34fb923-a537-4b9b-8671-08be93095383 009](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/4ce206bd-774b-4903-964d-3f159b5668ca)
+![jdk6](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/4ce206bd-774b-4903-964d-3f159b5668ca)
 
 
 
@@ -70,7 +70,7 @@ The installation will begin as shown below:
 ---
 Finally, we can click on the Close button after the confirmation window appears which says that the Java is installed.
 
-![Aspose Words f34fb923-a537-4b9b-8671-08be93095383 010](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/9909b659-b2a7-4171-94cc-75bcdd463cc0)
+![jdk7](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/9909b659-b2a7-4171-94cc-75bcdd463cc0)
 
 
 
