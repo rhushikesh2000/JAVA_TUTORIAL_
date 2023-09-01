@@ -4,9 +4,10 @@
 Java LinkedList class uses a doubly linked list to store the elements. It provides a linked-list data structure. It inherits the AbstractList class and implements List and Deque interfaces.
 
 
-![LinkedList-Hierarchy](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/2abfbf74-cea7-4d5a-be7e-acbd1b410ed5)
 
 
+
+![linkedlist1](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/00e8e326-d675-46ab-8813-6352cb71864c)
 
 
 
@@ -38,9 +39,10 @@ Java LinkedList class uses a doubly linked list to store the elements. It provid
 
 
 
-![Java-LinkedList](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/3d605ae5-37c1-41ab-957f-3f317d73ed05)
 
 
+
+![linkedlist 2](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/33a8bd9e-eb10-4e76-bae7-5d79a0833186)
 
 
 
