@@ -4,10 +4,11 @@
 
 The SortedSet interface present in java.util package extends the Set interface present in the collection framework. It is an interface that implements the mathematical set. This interface contains the methods inherited from the Set interface and adds a feature that stores all the elements in this interface to be stored in a sorted manner.
 
-![java-treeset-hierarchy](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/2f2cf7b0-1d17-4c23-8394-286bdcee93f3)
 
 
 
+
+![sorted set](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/1d555788-e17e-41ff-a618-921078a91f15)
 
 **TreeSet in Java**
 
