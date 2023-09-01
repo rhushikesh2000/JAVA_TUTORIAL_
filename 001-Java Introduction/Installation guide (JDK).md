@@ -10,12 +10,15 @@ Installation guide (JDK)
 - Select the version of Java which we want to download.
 - Select the operating system.
 - Scroll down to the page and click on the URL option suitable for your computer Operating system. But for a 64-bit machine, choose the software name ending with x64.  
-![jdk1](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/04499dfd-d7ca-4083-a787-4d13120f5037)
+
+
+![jdk2](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/d7e94d3b-d952-4669-b0e9-7cc1f4e2ecc7)
 
 
 **Step 3:** 
 ---
-![jdk3](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/319eca46-36cc-403a-9f4a-5946be06f923)
+
+![jdk3](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/60b068f0-a337-4935-8205-54d34ac75387)
 
 After the downloading procedure is complete, we need to run the installer
 
@@ -25,10 +28,11 @@ After the downloading procedure is complete, we need to run the installer
 ---
 Once Java installation wizard opens, click on the Next button as shown below:
 
-![jdk4](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/c5f5eb93-8e2a-4186-988a-8007dafc8afe)
 
 
 
+
+![jdk4](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/ab9f3a8c-8434-41e2-a9e1-849c0a1a5288)
 
 
 
@@ -43,10 +47,10 @@ Once Java installation wizard opens, click on the Next button as shown below:
 ---
 Again click on the Next button if we wish to install Java development kit in the default directory(encircled with green color), or we can change this directory by clicking on Change button.  
 
-![jdk5](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/52a0cd37-eb3b-4363-9f37-5dc9df74fe86)
 
 
 
+![jdk5](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/2dcd0d3a-e01e-4f1f-af3d-11019c967093)
 
 
 
@@ -59,10 +63,10 @@ Again click on the Next button if we wish to install Java development kit in the
 ---
 The installation will begin as shown below:
 
-![jdk6](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/4ce206bd-774b-4903-964d-3f159b5668ca)
 
 
 
+![jdk6](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/ce69af96-28e0-4400-8c5b-9610c8572a97)
 
 
 
@@ -70,10 +74,10 @@ The installation will begin as shown below:
 ---
 Finally, we can click on the Close button after the confirmation window appears which says that the Java is installed.
 
-![jdk7](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/9909b659-b2a7-4171-94cc-75bcdd463cc0)
 
 
 
+![jdk7](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/bc07ac32-19d9-4196-b611-ed8b1ec96110)
 
 
 
@@ -101,11 +105,11 @@ Go to the search bar and search **f**or **Environment variable ->** click on **E
 
 Under the Advanced System Setting option click on **Environment Variables** as highlighted below**.**
 
-![env 2](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/f9451cdc-064c-4d50-8da4-9161a5d00c98)
 
 
 
 
+![env2](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/8a216db5-7a5e-4c28-ae06-94544b156cc0)
 
 
 
@@ -117,8 +121,9 @@ Under the Advanced System Setting option click on **Environment Variables** as h
 ---
 Now, you have to alter the “**Path”** variable under System variables so that it also contains the path to the Java environment. Select the “Path” variable and click on the **Edit button** as highlighted below.
 
-![env-2](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/8e0fffc8-f219-47fa-9500-dddac7527257)
 
+
+![env3](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/78bd6cff-b2af-4294-830c-bf730a340f0e)
 
 
 
@@ -135,7 +140,8 @@ You will see a list of different paths, Click on the **New** button, and then ad
 
 
 
-![env-3](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/9c59425b-9c3d-42bd-b85e-833d6fad77cf)
+
+![env4](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/2b1a517d-4df7-43c2-a296-8b47525f2257)
 
 
 
