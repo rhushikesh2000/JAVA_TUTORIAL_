@@ -20,7 +20,7 @@ In Java, an **operator** is a symbol that performs the specified operations. In 
 | :-: | :-: | :-: |
 |Bitwise AND|&|op1 & op2|
 |Bitwise exclusive OR|^|op1 ^ op2|
-|Bitwise inclusive OR|||op1 | op2|
+|Bitwise inclusive OR| l | op1 l op2|
 |Bitwise Compliment|~|~ op|
 |Bitwise left shift|<<|op1 << op2|
 |Bitwise right shift|>>|op1 >> op2|
